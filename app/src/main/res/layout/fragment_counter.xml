@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".counter.ui.CounterFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:id="@+id/tv_result"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/tv_result_def_value_0"
+        android:textColor="@color/black"
+        android:textSize="24sp"
+        android:textAlignment="center" />
+
+    <Button
+        android:id="@+id/bt_increment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:text="@string/bt_txt_plus"
+        android:textSize="20sp"/>
+
+    <Button
+        android:id="@+id/bt_decrement"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:text="@string/bt_txt_minus"
+        android:textSize="20sp"/>
+
+</LinearLayout>

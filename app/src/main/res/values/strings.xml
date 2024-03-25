@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CounterMVP</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bt_txt_plus">+</string>
+    <string name="bt_txt_minus">-</string>
+    <string name="tv_result_def_value_0">0</string>
+</resources>

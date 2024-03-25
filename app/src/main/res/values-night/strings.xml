@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bt_txt_plus">+</string>
+    <string name="bt_txt_minus">-</string>
+    <string name="tv_result_def_value_0">0</string>
+</resources>
